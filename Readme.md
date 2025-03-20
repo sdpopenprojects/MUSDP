@@ -1,8 +1,8 @@
 # Introduction
 This code is an implementation of the paper, which is described in:
-Zhiqiang Li, Hongyu Zhang, Xiao-Yuan Jing, Wangyang Yu, Yueyue Liu. 
-"Unsupervised Software Defect Prediction through Multi-view Clustering", 2024. 
-It has submitted to the Journal of *IEEE Transactions on Reliability* under review.
+*Zhiqiang Li, Hongyu Zhang, Xiao-Yuan Jing, Wangyang Yu, Yueyue Liu. 
+"Unsupervised Software Defect Prediction through Multi-view Clustering", 2025*. 
+It has published in the Journal of *IEEE Transactions on Reliability*.
 
 # Project Structure
 This directory contains the following files:
